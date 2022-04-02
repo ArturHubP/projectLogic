@@ -1,0 +1,1 @@
+{"uuid":"fb1537db-37f2-4f7b-8fd8-aec54e4dfbc1","name":"Yatest.MarketTest.setup","children":["ea5a75b3-be31-40e4-bd38-7656e010e3e3"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648909135342,"stop":1648909143852}],"afters":[],"start":1648909135341,"stop":1648909143853}

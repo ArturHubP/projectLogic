@@ -1,0 +1,1 @@
+{"uuid":"2c7452f7-198d-4fd5-8604-5cb888aac01b","name":"Yatest.MarketTest.close","children":["bf4f9819-3696-429e-9230-2ba658b82931"],"description":"","befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648908909934,"stop":1648908910647}],"start":1648908909933,"stop":1648908910647}
